@@ -3,7 +3,7 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2022-02-20T17:45:54.329Z",
+        "start_timestamp": "2022-02-20T18:12:51.995Z",
         "line": 17,
         "name": "Title of your Scenario Outline",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2150953900,
+              "duration": 2522458200,
               "status": "passed"
             },
             "line": 7,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 1032013800,
+              "duration": 1086926200,
               "status": "passed"
             },
             "line": 8,
@@ -43,7 +43,7 @@
           },
           {
             "result": {
-              "duration": 141822200,
+              "duration": 148509100,
               "status": "passed"
             },
             "line": 9,
@@ -61,7 +61,7 @@
           },
           {
             "result": {
-              "duration": 123074000,
+              "duration": 117295600,
               "status": "passed"
             },
             "line": 10,
@@ -79,7 +79,7 @@
           },
           {
             "result": {
-              "duration": 563490600,
+              "duration": 562528500,
               "status": "passed"
             },
             "line": 11,
@@ -91,7 +91,7 @@
           },
           {
             "result": {
-              "duration": 261972400,
+              "duration": 353775800,
               "status": "passed"
             },
             "line": 12,
@@ -103,7 +103,7 @@
           },
           {
             "result": {
-              "duration": 655772500,
+              "duration": 677379200,
               "status": "passed"
             },
             "line": 13,
@@ -124,7 +124,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-02-20T17:45:59.305Z",
+        "start_timestamp": "2022-02-20T18:12:57.498Z",
         "line": 18,
         "name": "Title of your Scenario Outline",
         "description": "",
@@ -134,7 +134,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1206366700,
+              "duration": 1212621600,
               "status": "passed"
             },
             "line": 7,
@@ -146,7 +146,7 @@
           },
           {
             "result": {
-              "duration": 801889300,
+              "duration": 916262500,
               "status": "passed"
             },
             "line": 8,
@@ -164,7 +164,7 @@
           },
           {
             "result": {
-              "duration": 117538000,
+              "duration": 238703600,
               "status": "passed"
             },
             "line": 9,
@@ -182,7 +182,7 @@
           },
           {
             "result": {
-              "duration": 127437100,
+              "duration": 185133600,
               "status": "passed"
             },
             "line": 10,
@@ -200,7 +200,7 @@
           },
           {
             "result": {
-              "duration": 535244600,
+              "duration": 616910200,
               "status": "passed"
             },
             "line": 11,
@@ -212,7 +212,7 @@
           },
           {
             "result": {
-              "duration": 239393300,
+              "duration": 307115000,
               "status": "passed"
             },
             "line": 12,
@@ -224,7 +224,7 @@
           },
           {
             "result": {
-              "duration": 636408700,
+              "duration": 681087900,
               "status": "passed"
             },
             "line": 13,
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "start_timestamp": "2022-02-20T17:46:02.989Z",
+        "start_timestamp": "2022-02-20T18:13:01.670Z",
         "line": 19,
         "name": "Title of your Scenario Outline",
         "description": "",
@@ -255,7 +255,7 @@
         "steps": [
           {
             "result": {
-              "duration": 1172596000,
+              "duration": 1264440200,
               "status": "passed"
             },
             "line": 7,
@@ -267,7 +267,7 @@
           },
           {
             "result": {
-              "duration": 851018000,
+              "duration": 836442900,
               "status": "passed"
             },
             "line": 8,
@@ -285,7 +285,7 @@
           },
           {
             "result": {
-              "duration": 101576400,
+              "duration": 143927500,
               "status": "passed"
             },
             "line": 9,
@@ -303,7 +303,7 @@
           },
           {
             "result": {
-              "duration": 98292900,
+              "duration": 67087000,
               "status": "passed"
             },
             "line": 10,
@@ -321,7 +321,7 @@
           },
           {
             "result": {
-              "duration": 532083600,
+              "duration": 520530900,
               "status": "passed"
             },
             "line": 11,
@@ -333,7 +333,7 @@
           },
           {
             "result": {
-              "duration": 315843400,
+              "duration": 256596600,
               "status": "passed"
             },
             "line": 12,
@@ -345,7 +345,7 @@
           },
           {
             "result": {
-              "duration": 618196600,
+              "duration": 677075300,
               "status": "passed"
             },
             "line": 13,
