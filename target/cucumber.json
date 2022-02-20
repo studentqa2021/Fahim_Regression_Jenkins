@@ -1,0 +1,385 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-02-20T17:45:54.329Z",
+        "line": 17,
+        "name": "Title of your Scenario Outline",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario-outline;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2150953900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User need to open any browser",
+            "match": {
+              "location": "com.cucumber.stepdef.LoginStepDef.user_need_to_open_any_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1032013800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Put application \"App Link\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"App Link\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.cucumber.stepdef.LoginStepDef.put_application(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 141822200,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "put username \"Username\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Username\"",
+                  "offset": 13
+                }
+              ],
+              "location": "com.cucumber.stepdef.LoginStepDef.put_username(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 123074000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "put password \"Password\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Password\"",
+                  "offset": 13
+                }
+              ],
+              "location": "com.cucumber.stepdef.LoginStepDef.put_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 563490600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "click login button",
+            "match": {
+              "location": "com.cucumber.stepdef.LoginStepDef.click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 261972400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "login will be successful with valid credential",
+            "match": {
+              "location": "com.cucumber.stepdef.LoginStepDef.login_will_be_successful_with_valid_credential()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 655772500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "close the browser when test finish",
+            "match": {
+              "location": "com.cucumber.stepdef.LoginStepDef.close_the_browser_when_test_finish()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@Positive"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-02-20T17:45:59.305Z",
+        "line": 18,
+        "name": "Title of your Scenario Outline",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario-outline;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1206366700,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User need to open any browser",
+            "match": {
+              "location": "com.cucumber.stepdef.LoginStepDef.user_need_to_open_any_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 801889300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Put application \"App Link\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"App Link\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.cucumber.stepdef.LoginStepDef.put_application(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 117538000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "put username \"Username2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Username2\"",
+                  "offset": 13
+                }
+              ],
+              "location": "com.cucumber.stepdef.LoginStepDef.put_username(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 127437100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "put password \"Password2\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Password2\"",
+                  "offset": 13
+                }
+              ],
+              "location": "com.cucumber.stepdef.LoginStepDef.put_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 535244600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "click login button",
+            "match": {
+              "location": "com.cucumber.stepdef.LoginStepDef.click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 239393300,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "login will be successful with valid credential",
+            "match": {
+              "location": "com.cucumber.stepdef.LoginStepDef.login_will_be_successful_with_valid_credential()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 636408700,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "close the browser when test finish",
+            "match": {
+              "location": "com.cucumber.stepdef.LoginStepDef.close_the_browser_when_test_finish()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@Positive"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-02-20T17:46:02.989Z",
+        "line": 19,
+        "name": "Title of your Scenario Outline",
+        "description": "",
+        "id": "title-of-your-feature;title-of-your-scenario-outline;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1172596000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User need to open any browser",
+            "match": {
+              "location": "com.cucumber.stepdef.LoginStepDef.user_need_to_open_any_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 851018000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Put application \"App Link\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"App Link\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.cucumber.stepdef.LoginStepDef.put_application(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 101576400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "put username \"Username3\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Username3\"",
+                  "offset": 13
+                }
+              ],
+              "location": "com.cucumber.stepdef.LoginStepDef.put_username(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 98292900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "put password \"Password3\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Password3\"",
+                  "offset": 13
+                }
+              ],
+              "location": "com.cucumber.stepdef.LoginStepDef.put_password(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 532083600,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "click login button",
+            "match": {
+              "location": "com.cucumber.stepdef.LoginStepDef.click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 315843400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "login will be successful with valid credential",
+            "match": {
+              "location": "com.cucumber.stepdef.LoginStepDef.login_will_be_successful_with_valid_credential()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 618196600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "close the browser when test finish",
+            "match": {
+              "location": "com.cucumber.stepdef.LoginStepDef.close_the_browser_when_test_finish()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@Positive"
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "\tI want to use this template for my feature file",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/ScenarioOutlineLogin.feature",
+    "tags": [
+      {
+        "name": "@Regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
